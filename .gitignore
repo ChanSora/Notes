@@ -1,0 +1,8 @@
+.DS_Store
+References/*
+**/.obsidian/
+
+*.HEIC
+*.jpg
+*.png
+*.pdf

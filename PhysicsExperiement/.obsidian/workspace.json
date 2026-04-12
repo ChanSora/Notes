@@ -11,14 +11,10 @@
             "id": "bb42aabfe9e5e860",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "物理实验报告：测声速.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "物理实验报告：测声速"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6d44b03b63286404",
@@ -184,12 +179,31 @@
       "bases:新建数据库": false
     }
   },
-  "active": "bb42aabfe9e5e860",
+  "active": "00eec8e5457cc269",
   "lastOpenFiles": [
-    "物理实验报告：测声速.pdf",
-    "未命名.canvas",
     "未命名 1.base",
     "未命名.base",
-    "物理实验报告：测声速.md"
+    "未命名.canvas",
+    "物理实验报告：示波器.md",
+    "未命名",
+    "物理实验报告：示波器.pdf",
+    "figures/IMG_2808.jpg",
+    "figures/IMG_2807.jpg",
+    "figures/IMG_2806.jpg",
+    "figures/IMG_2805.jpg",
+    "figures/IMG_2808.HEIC",
+    "figures/IMG_2807.HEIC",
+    "figures/IMG_2806.HEIC",
+    "figures/IMG_2805.HEIC",
+    "IMG_2808.HEIC",
+    "IMG_2807.HEIC",
+    "物理实验报告：测声速.md",
+    "figures/image2-31.jpg.md",
+    "figures/image5-small-71.png",
+    "figures/image5-70.png",
+    "figures/image4-small-69.png",
+    "figures/image4-68.png",
+    "figures/image3-small-34.png",
+    "figures/image3-33.png"
   ]
 }
