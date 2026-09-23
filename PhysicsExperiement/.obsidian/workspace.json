@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "403d58264587e7a8",
+        "id": "b44c61e5111fae2e",
         "type": "tabs",
         "children": [
           {
-            "id": "bb42aabfe9e5e860",
+            "id": "e98c27d142df5a27",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "物理实验报告：测声速.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "物理实验报告：测声速"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -181,31 +179,33 @@
       "bases:新建数据库": false
     }
   },
-  "active": "bb42aabfe9e5e860",
+  "active": "00eec8e5457cc269",
   "lastOpenFiles": [
-    "物理实验报告：示波器.md",
+    "未命名",
+    "物理实验报告：线性与非线性电子元件的伏安特性曲线测量.md",
+    "物理实验报告：示波器.pdf",
+    "伏安特性曲线.png",
+    "solenoid_B_distribution.png",
+    "物理实验报告：测量螺线管的磁场.md",
     "物理实验报告：测声速.pdf",
     "物理实验报告：测声速.md",
+    "VoltAmp.png",
+    "V_I_fitting.png",
+    "VoltAmp.py",
+    "伏安特性曲线数据.txt",
+    "物理实验报告：示波器.md",
+    "Tole_1.png",
+    "Toleroid_B.py",
+    "Toleroid.py",
     "未命名 1.base",
     "未命名.base",
     "未命名.canvas",
-    "未命名",
-    "物理实验报告：示波器.pdf",
     "figures/IMG_2808.jpg",
     "figures/IMG_2807.jpg",
     "figures/IMG_2806.jpg",
     "figures/IMG_2805.jpg",
     "figures/IMG_2808.HEIC",
-    "figures/IMG_2807.HEIC",
-    "figures/IMG_2806.HEIC",
-    "figures/IMG_2805.HEIC",
-    "IMG_2808.HEIC",
     "figures/image2-31.jpg.md",
-    "figures/image5-small-71.png",
-    "figures/image5-70.png",
-    "figures/image4-small-69.png",
-    "figures/image4-68.png",
-    "figures/image3-small-34.png",
-    "figures/image3-33.png"
+    "figures/image5-small-71.png"
   ]
 }
